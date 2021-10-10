@@ -18,5 +18,5 @@ while want_more == True:
     count=count+1
   else:
     want_more=False
-print ("Your sum is ", sum ," and your avg is " , (sum/count))
+print ("Your sum is ", sum ," and your avg is " , (sum/count), " the count is ", count)
 
